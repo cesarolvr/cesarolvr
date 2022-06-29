@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working with development of front-end modern applications
 
-- 🌱 in my free time, working with creative programming, ui design and 3d tools to web development
+- 🌱 simultaneously, I work with creative programming, ui design and 3d tools to web
 
 - 🏅 and also in my free time I'm 🚴🏿‍♂️ cycling, 🏊‍♂️ swimming and ⚽ playing soccer
 
