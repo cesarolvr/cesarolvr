@@ -1,4 +1,5 @@
-<h2 align="center">hi 👋, I'm Cesar</h2><h4 align="center">a front-end developer based in Brazil</h4>
+<h2 align="center">hi 👋, I'm Cesar</h2>
+<p align="center">a front-end developer based in Brazil</p>
 <br />
 
 - 💻 I’m currently working with development of front-end modern applications
