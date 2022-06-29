@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">hi 👋, I'm Cesar</h2><h4 align="center">a front-end developer based in Brazil</h4>
+<br />
 
-<!--
-**cesarolvr/cesarolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working with development of front-end modern applications
 
-Here are some ideas to get you started:
+- 🌱 learning about creative programming, ui design and 3d tools to web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📮 you can send me a message in 🐦<a href="https://twitter.com/cesarolvr" target="blank">twitter</a>, 📷<a href="https://linkedin.com/in/cesarolvr" target="blank">
+    instagram
+</a>or 👔<a href="https://instagram.com/cesarolvr" target="blank"> linkedin    
+</a>
+
+- 🌻 or if you're old school, email me at cesar2012oliveira@gmail.com
+
+- ⚽ a fun fact: I tried to be a professional football player until I was 16
