@@ -4,7 +4,9 @@
 
 - 💻 I’m currently working with development of front-end modern applications
 
-- 🌱 learning about creative programming, ui design and 3d tools to web development
+- 🌱 in my free time, working with creative programming, ui design and 3d tools to web development
+
+- 🏅 and also in my free time I'm 🚴🏿‍♂️ cycling, 🏊‍♂️ swimming and ⚽ playing soccer
 
 - 📮 you can send me a message in 🐦<a href="https://twitter.com/cesarolvr" target="blank">twitter</a>, 📷<a href="https://linkedin.com/in/cesarolvr" target="blank">
     instagram
@@ -13,4 +15,4 @@
 
 - 🌻 or if you're old school, email me at cesar2012oliveira@gmail.com
 
-- ⚽ a fun fact: I tried to be a professional football player until I was 16
+- 🍀 a fun fact: I tried to be a professional football player until I was 16
