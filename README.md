@@ -6,7 +6,7 @@
 
 - 🌱 simultaneously, I work with creative programming, ui design and 3D tools/libraries to web development
 
-- 🏅 in my free time I'm 🚴🏿‍♂️ cycling, 🏊‍♂️ swimming and ⚽ playing football
+- 🏅 in my free time I'm 🚴🏿‍♂️ cycling, 🏊‍♂️ swimming or ⚽ playing football
 
 - 📮 you can send me a message in 🐦<a href="https://twitter.com/cesarolvr" target="blank">twitter</a>, 📷<a href="https://instagram.com/cesarolvr" target="blank">
     instagram
