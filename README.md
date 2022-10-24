@@ -14,5 +14,3 @@
 </a>
 
 - 🌻 or if you're old school, email me at cesar2012oliveira@gmail.com
-
-- 🍀 a fun fact: I tried to be a professional football player until I was 16
