@@ -1,8 +1,8 @@
 <h2 align="center">hi 👋, I'm Cesar</h2>
-<p align="center">a software engineer based in Brazil</p>
+<p align="center">a tech lead based in Brazil</p>
 <br />
 
-- 💻 I’m currently working with development of modern web applications
+- 💻 I’m currently working with other technologists creating modern web applications in the biggest brazilian bank
 
 - 🌱 simultaneously, I work with creative programming, ui design and 3D tools/libraries to web development
 
